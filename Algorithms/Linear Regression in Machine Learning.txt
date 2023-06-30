@@ -1,0 +1,18 @@
+Linear Regression in Machine Learning: 
+It is a statistical method that is used for predictive analysis. Linear regression makes predictions for continuous/real or numeric variables such as sales, salary, age, product price, etc.
+Linear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables, hence called as linear regression. Since linear regression shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable.
+
+Mathematically, we can represent a linear regression as: y= a0+a1x+ ε
+Here,
+Y= Dependent Variable (Target Variable)
+X= Independent Variable (predictor Variable)
+a0= intercept of the line (Gives an additional degree of freedom)
+a1 = Linear regression coefficient (scale factor to each input value).
+ε = random error
+
+Types of Linear Regression: 1)Single 2)Multiple
+Simple Linear Regression:
+If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
+Multiple Linear regression:
+If more than one independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Multiple Linear Regression.
+
